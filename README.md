@@ -8,7 +8,7 @@ https://twitter.com/unknownantisec
 ### DESCRIPTION
 ```
 Jameh, que na verdade se escreve e se lê 'Jamé' que do Tupi Guarani significa oculto, 
-misterioso tem como objetivo realizar um brute-force em hash de senhas contidas no /etc/shadow,
+misterioso, tem como objetivo realizar um brute-force em hash de senhas contidas no /etc/shadow,
 passando o salt do hash e a senha criptografada ele tenta por meio de dicionário quebrar a 
 senha.
 ```
