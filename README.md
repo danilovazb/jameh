@@ -1,5 +1,4 @@
 # Jameh
-===============
 ```
 Danilo Vaz - UNK
 danilovazb@gmail.com
